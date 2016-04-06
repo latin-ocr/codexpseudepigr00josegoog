@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./codexpseudepigr00josegoog/codexpseudepigr00josegoog_1126.png"; bbox 0 0 2118 3766; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 225 3361 848 3622">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 225 3361 848 3622">
+     <span class='ocr_line' id='line_1_1' title="bbox 225 3361 848 3462; baseline -0.035 -14"><span class='ocrx_word' id='word_1_1' title='bbox 225 3415 230 3420; x_wconf 89' lang='lat'>·</span> <span class='ocrx_word' id='word_1_2' title='bbox 252 3435 283 3446; x_wconf 83' lang='lat'>..</span> <span class='ocrx_word' id='word_1_3' title='bbox 299 3383 469 3462; x_wconf 74' lang='lat' dir='ltr'>Benjamino</span> <span class='ocrx_word' id='word_1_4' title='bbox 477 3361 848 3444; x_wconf 70' lang='lat' dir='ltr'>Tudelensn‚mavu1t,credete</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 297 3451 845 3541; baseline -0.027 -16"><span class='ocrx_word' id='word_1_5' title='bbox 297 3464 393 3534; x_wconf 61' lang='lat' dir='ltr'>Susa,</span> <span class='ocrx_word' id='word_1_6' title='bbox 402 3465 490 3541; x_wconf 63' lang='lat' dir='ltr'><strong>qudm</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 499 3477 531 3519; x_wconf 85' lang='lat' dir='ltr'>ut</span> <span class='ocrx_word' id='word_1_8' title='bbox 540 3457 662 3519; x_wconf 82' lang='lat' dir='ltr'>scrib&#39;nnt</span> <span class='ocrx_word' id='word_1_9' title='bbox 672 3451 776 3531; x_wconf 62' lang='lat' dir='ltr'>Epipha</span> <span class='ocrx_word' id='word_1_10' title='bbox 797 3454 807 3509; x_wconf 82' lang='lat' dir='ltr'>i</span> <span class='ocrx_word' id='word_1_11' title='bbox 838 3483 845 3510; x_wconf 66' lang='lat'><em>5</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 294 3529 841 3622; baseline -0.018 -18"><span class='ocrx_word' id='word_1_12' title='bbox 294 3529 841 3622; x_wconf 61' lang='lat' dir='ltr'>ChroniciAlmfivuPaffiffiuufbt,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1064 3766">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1064 3766">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1064 3766; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1064 3766; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
